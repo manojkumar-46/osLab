@@ -5,6 +5,7 @@ int main()
 {
     printf("current directory\n");
     system("pwd");
+    
 
     printf("\nfiles\n");
     system("is-1");
