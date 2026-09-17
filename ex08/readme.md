@@ -35,4 +35,4 @@ gcc exp8.c -o exp8
 ```
 
 ## OUTPUT :
-![Output for Experiment 8](https://github.com/Balakrishna-0907/osLab/blob/1d1d7801bc2c065fc4e6aa9c0d94951ff79e3d6a/ex08/output.png)
+![Output for Experiment 8](https://github.com/manojkumar-46/osLab/blob/ee67336415d6dda5a464357f762011e5b8670565/ex08/exp8.png)
